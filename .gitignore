@@ -1,0 +1,7 @@
+/node_modules
+/script
+/module
+/es
+/umd
+/css/*.css
+/css/*.scss
