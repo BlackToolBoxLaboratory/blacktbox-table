@@ -9,7 +9,7 @@ const env = process.env.NODE_ENV;
 
 const config = {
   input: "module/index.js",
-  name: 'blacktbox-menu',
+  name: 'blacktbox-table',
   output: {
     format: "umd"
   },
