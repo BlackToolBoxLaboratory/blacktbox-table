@@ -1,3 +1,9 @@
+## v0.3.0
+
+> Aug. 26, 2018
+
+- **Minor**: Add feature of searching data.
+
 ## v0.2.1
 
 > Juy. 28, 2018
