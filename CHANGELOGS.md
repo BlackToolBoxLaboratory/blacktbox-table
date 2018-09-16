@@ -1,3 +1,9 @@
+## v0.3.1
+
+> Sep. 16, 2018
+
+- **Issue**: Add ES-lint check.
+
 ## v0.3.0
 
 > Aug. 26, 2018
