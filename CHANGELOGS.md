@@ -2,6 +2,8 @@
 
 > Sep. 29, 2018
 
+- **Issue**: Add Jest test.
+
 ## v0.3.1
 
 > Sep. 16, 2018
