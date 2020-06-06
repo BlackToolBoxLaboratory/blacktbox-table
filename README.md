@@ -1,3 +1,5 @@
+# [Deprecated] It will be refactored to [react-table](https://github.com/BlackToolBoxLaboratory/react-table) as a new package.
+
 # blacktbox-table
 
 Create table with [React](https://facebook.github.io/react).
